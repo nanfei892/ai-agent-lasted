@@ -31,15 +31,15 @@
 
 1.首页：可选AI恋爱咨询与全能AI助手。
 
-![](https://github.com/nanfei892/ai-agent-lasted/blob/master/images/1%E9%A6%96%E9%A1%B5.png)
+![](https://raw.githubusercontent.com/nanfei892/ai-agent-lasted/master/images/1%E9%A6%96%E9%A1%B5.png)
 
 2. AI 恋爱大师：基于 RAG 知识库增强的情感顾问，支持多轮对话、流式输出、对话记忆，为用户提供专业的恋爱建议。
 
-![](https://github.com/nanfei892/ai-agent-lasted/blob/master/images/2%E6%81%8B%E7%88%B1%E5%A4%A7%E5%B8%88.png)
+![](https://raw.githubusercontent.com/nanfei892/ai-agent-lasted/master/images/2%E6%81%8B%E7%88%B1%E5%A4%A7%E5%B8%88.png)
 
 3. AI 超级智能体（Manus）：基于 ReAct 模式的全能 Agent，可自动选择并调用多种工具，逐步完成用户提出的复杂任务。
 
-![](https://github.com/nanfei892/ai-agent-lasted/blob/master/images/3%E6%99%BA%E8%83%BD%E4%BD%93.png)
+![](https://raw.githubusercontent.com/nanfei892/ai-agent-lasted/master/images/3%E6%99%BA%E8%83%BD%E4%BD%93.png)
 
 ---
 
